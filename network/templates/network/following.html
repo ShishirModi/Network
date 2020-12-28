@@ -17,7 +17,7 @@
             <div>{{ post.timestamp }}</div>
         </div>
     {% empty %}
-        <li>no post</li>
+        <li>There is nothing here... Are you sure you're following someone?</li>
     {% endfor %}
 
     {% if page_obj.has_next %}
