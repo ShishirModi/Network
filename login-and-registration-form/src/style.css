@@ -65,8 +65,8 @@ hr {
 .container {
   display: block;
   position: relative;
-  width: 530px;
-  height: 679px;
+  width: 400px;
+  height: 600px;
   margin: auto;
   margin-top: 180px; 
   box-shadow: 1px 5px 10px 1px #333;
